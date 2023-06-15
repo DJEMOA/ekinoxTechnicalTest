@@ -11,4 +11,5 @@ This project uses :
 * unittest for testing
 
 ## Testing
-We use unittest to do some basic test on values and also some processing tests to evaluate if the logic of the application is well implemented 
+We use unittest to do some basic test on values and also some processing tests to evaluate if the logic of the application is well implemented. 
+[here is the testing class](https://github.com/DJEMOA/ekinoxTechnicalTest/blob/main/test_app.py)
