@@ -16,6 +16,8 @@ We use unittest to do some basic test on values and also some processing tests t
 
 ## Run the application
 To run the application :
+* Make sure your technical environment is set
+* Clone the repository to your local environment
 * Go to your Command Line Interfact and run ```python app.py```
 * Go to your browser and launch *http://localhost:5000/landing* or *http://localhost:5000/* (here you will be redirected to the landing page
 * And follow the instructions in the page
