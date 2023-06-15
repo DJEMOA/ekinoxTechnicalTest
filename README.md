@@ -13,3 +13,12 @@ This project uses :
 ## Testing
 We use unittest to do some basic test on values and also some processing tests to evaluate if the logic of the application is well implemented. 
 [here is the testing class](https://github.com/DJEMOA/ekinoxTechnicalTest/blob/main/test_app.py)
+
+## Run the application
+To run the application :
+* Go to your Command Line Interfact and run ```python app.py```
+* Go to your browser and launch *http://localhost:5000/landing* or *http://localhost:5000/* (here you will be redirected to the landing page
+* And follow the instructions in the page
+
+### Thank you.
+*Ange DJEMO*
